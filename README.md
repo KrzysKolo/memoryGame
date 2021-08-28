@@ -15,7 +15,7 @@ I made the "MemoryGame" project for my children 6 and 4 years old. The user can 
   <ul>
     <li>
       your email and your password, </li><li>
-    the test email: <b>test1@test.pl</b>and the test password: <b> test123456</b></li><li>
+    a test email: <b>test1@test.pl</b> and the test password: <b> test123456</b></li><li>
      a github account</li>
   </p>
 
