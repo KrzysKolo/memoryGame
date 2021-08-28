@@ -6,7 +6,7 @@
   <img src="demo/demo4.jpg" alt="Disney" width="550px">
   <img src="demo/demo5.jpg" alt="Disney" width="550px">
   <img src="demo/demo6.jpg" alt="Disney" width="550px">
-  <img src="demo/demo6.jpg" alt="Disney" width="550px">
+  <img src="demo/demo7.jpg" alt="Disney" width="550px">
   <p> You can sign up:
     - your email and your password,
     - the test email: <b>test1@test.pl</b>and the test password: <b> test123456</b>
