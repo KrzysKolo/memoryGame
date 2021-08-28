@@ -1,4 +1,4 @@
-# Short description of the MemoryGame project created with Create-React-App and TypeScript
+## Short description of the MemoryGame project created with Create-React-App and TypeScript
   <p> Disney - Memory Game/p>
   <p> React, Redux-Toolkit, React-Router, React-Sound, Chart.js, Firebase, FireabaseUI, Firebase-Auth(email, gitgub), styled-components</p>
   <img src="demo/demo1.jpg" alt="Disney" width="550px">
