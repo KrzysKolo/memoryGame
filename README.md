@@ -3,13 +3,14 @@
   <p>
 I made the "MemoryGame" project for my children aged 6 and 4. The user can log in with his email, log in to the test account or use the github account. After logging in, the player can control his results in the "Your Results" tab.
   </p>
-  <p> React, Redux-Toolkit, React-Router, React-Sound, Chart.js, Firebase, FireabaseUI, Firebase-Auth(email, gitgub), styled-components</p>
+ 
   <img src="demo/demo1.jpg" alt="Disney" width="550px">
   <img src="demo/demo3.jpg" alt="Disney" width="550px">
   <img src="demo/demo4.jpg" alt="Disney" width="550px">
   <img src="demo/demo5.jpg" alt="Disney" width="550px">
   <img src="demo/demo6.jpg" alt="Disney" width="550px">
   <img src="demo/demo7.jpg" alt="Disney" width="550px">
+   <p>In the project I used: React, Redux-Toolkit, React-Router, React-Sound, Chart.js, Firebase, FireabaseUI, Firebase-Auth(email, gitgub), styled-components</p>
   <p> You can sign up:
   <ul>
     <li>
